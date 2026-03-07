@@ -78,11 +78,9 @@ class SherifSamy {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sherif-samy27&show_icons=true&theme=tokyonight" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-samy27&layout=compact&theme=tokyonight" width="45%">
-</div>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sherif-samy27&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sherif-samy27&layout=compact&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
