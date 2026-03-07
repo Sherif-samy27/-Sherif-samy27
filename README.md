@@ -78,9 +78,10 @@ class SherifSamy {
 
 ## 📊 GitHub Stats
 
-![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sherif-samy27&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-samy27&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sherif-samy27&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-samy27&layout=compact&theme=tokyonight" width="45%">
+</div>
 
 ---
 
