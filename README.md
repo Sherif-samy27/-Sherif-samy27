@@ -77,13 +77,11 @@ class SherifSamy {
 
 ## 📊 GitHub Stats
 
-<p align="center">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sherif-samy27&show_icons=true&theme=tokyonight" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sherif-samy27&show_icons=true&theme=tokyonight&cache_seconds=30)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-samy27&layout=compact&theme=tokyonight" height="165"/>
-
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherif-samy27&layout=compact&theme=tokyonight&cache_seconds=30)
 
 ---
 
